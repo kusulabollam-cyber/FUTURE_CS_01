@@ -28,6 +28,24 @@ The scan identified multiple open ports including:
 
 Some ports were filtered, indicating firewall protection mechanisms.
 
+## OWASP ZAP Findings
+
+The OWASP ZAP automated scan detected multiple security-related findings including:
+
+- Content Security Policy (CSP) Header Not Set
+- Cross-Domain Misconfiguration
+- Server Information Disclosure
+- Timestamp Disclosure
+
+These findings demonstrate common web application security weaknesses and configuration issues.
+
+## Skills Learned
+- Vulnerability Assessment
+- Web Security Testing
+- Reconnaissance
+- Security Documentation
+- GitHub Project Management
+
 ## Screenshots
 Project screenshots are available in the repository.
 
